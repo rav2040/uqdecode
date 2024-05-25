@@ -1,0 +1,14 @@
+{
+  "name": "uqdecode",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Stuart Kennedy",
+  "homepage": "https://github.com/rav2040/uqdecode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rav2040/uqdecode.git"
+  },
+  "bin": "lib/index.mjs",
+  "packageManager": "yarn@4.2.2"
+}
